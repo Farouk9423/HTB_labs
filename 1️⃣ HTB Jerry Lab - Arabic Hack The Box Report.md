@@ -37,7 +37,8 @@
 ### 🧠 Explanation  
 اثناء فحص ال Directories وجدت صفحة تسجيل دخول `manager/html` وهي عبارة عن صفحة تسجيل دخول، قمت بالتسجيل بال username وال password الافتراضيين ل Tomcat، وبالفعل استطعت تسجيل الدخول.
 
-![[Pasted image 20250728212622.png]]
+<img width="720" height="348" alt="1" src="https://github.com/user-attachments/assets/a1204625-30cd-4629-9603-19206f0d733b" />
+
 
 لاحظت بصفحة ال `manager` وجود مكان لرفع ملف `Web Application Resource (WAR)` وهو ملف يحتوي على الملفات المبنية ب Java الضرورية لعمل الموقع.
 
@@ -68,7 +69,7 @@ nc -lnvp 9002
 
 بعد ما جهزت ال Listener وانشأت ال Payload، برفعه على الصفحة، بس ما رح يصير شي عندي لانه صح انرفع بس ما تم تفعيله، لهيك لازم اضغط على رابط ال Payload يلي تم انشائه:
 
-![[2.webp]]
+<img width="720" height="301" alt="2" src="https://github.com/user-attachments/assets/256f70ac-3268-4b50-a0ca-8755674675c3" />
 
 ---
 
@@ -91,9 +92,9 @@ nc -lnvp 9002
 
 ### 🖼️ Screenshot 
 
-![[3.webp]]
+<img width="720" height="246" alt="3" src="https://github.com/user-attachments/assets/c5c23473-9313-487a-aff6-a3e79dd3f9c5" />
 
-![[4.webp]]
+<img width="831" height="187" alt="4" src="https://github.com/user-attachments/assets/61ed18c6-3998-42eb-97c3-c9a1cba90978" />
 
 ---
 
